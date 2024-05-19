@@ -1,13 +1,13 @@
 name: Update Checker padavanonly
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrtARM
-  REPO_BRANCH: mt7981
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x
+  REPO_BRANCH: openwrt-21.02
 
 on:
   workflow_dispatch:
-#  schedule:
-#  - cron: 0 14 * * 2,4,6
+  schedule:
+  - cron: '0 14 * * 2,4,6'
 
 jobs:
   check:
