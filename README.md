@@ -22,6 +22,7 @@ GitHub Actions For MT7981 OpenWrt
 
 ## 友情提醒 🤣
 此仓库只是拉取源码进行编译，本人并不会修复相关问题！
+
 abt_asr3000/cetron_ct3003/cmcc_a10/cmcc_rax3000m-emmc/cmcc_rax3000m/h3c_nx30pro/imou_lc-hx3001/jcg_q30/konka_komi-a31/livinet_zr-3020/mt7981-360-t7-108M/mt7981-clt-r30b1-112M/mt7981-clt-r30b1/xiaomi_mi-router-ax3000t/xiaomi_mi-router-wr30u-112m/
 
 ## 目录介绍 📖
